@@ -4,6 +4,12 @@
   color: #ffffff;
   font-size: 30px;
 }
+  .container {
+    background-image: url("assets/images/compressed image.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    border: 2px rgb(51, 51, 51);
+}
 #Panel-heading {
   height: 10px;
   background: #4aaaa5;
@@ -13,6 +19,12 @@
   font-size: 30px;
   color: #4aaaa5;
   background-color: white;
+}
+#work {
+  font-family: "Georgia", Times, Times New Roman, serif;
+  text-align: right;
+  color: #ffffff;
+  font-size: 30px;
 }
 
 img {
@@ -36,7 +48,7 @@ h5 {
   bottom: 0;
 }
 footer {
-  border-top: 10px solid #4aaaa5;
+  border-top: 10px solid rgb(86, 43, 187);
 }
 
 .card {
