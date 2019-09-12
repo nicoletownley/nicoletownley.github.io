@@ -1,0 +1,67 @@
+#logo {
+  font-family: "Georgia", Times, Times New Roman, serif;
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+#Panel-heading {
+  height: 10px;
+  background: #4aaaa5;
+}
+.block-header {
+  font-family: "Georgia", Times, Times New Roman, serif;
+  font-size: 30px;
+  color: #4aaaa5;
+  background-color: white;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+h5 {
+  color: #ffffff;
+  background-color: #4aaaa5;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.card-img-overlay {
+  text-align: center;
+  margin: 0 auto;
+  width: inherit;
+  top: initial;
+  padding: 0;
+  bottom: 0;
+}
+footer {
+  border-top: 10px solid #4aaaa5;
+}
+
+.card {
+  border: none;
+  margin: 10px 10px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
