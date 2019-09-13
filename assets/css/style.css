@@ -41,7 +41,7 @@
 
 footer {
   border-top: 10px solid #0000A0;
-  position:absolute;
+  position:static;
   bottom: -130px;
   width: 100%;
 }
