@@ -28,7 +28,7 @@
 .work {
   font-family: "Georgia", Times, Times New Roman, serif;
   text-align: right;
-  color: rgb(86, 43, 187);
+  color: #0000A0;
   font-size: 30px;
 }
 
@@ -40,7 +40,7 @@
 }
 
 footer {
-  border-top: 10px solid rgb(86, 43, 187);
+  border-top: 10px solid #0000A0;
   position:absolute;
   bottom: -130px;
   width: 100%;
