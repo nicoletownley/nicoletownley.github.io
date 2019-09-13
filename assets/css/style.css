@@ -5,67 +5,47 @@
   font-size: 30px;
 }
 
-body {
+/* body {
     height: 80%;
     background-image: url("../images/nki.PNG");
+    <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
     /* width: 100%; */
     /* background-position: cover; */
-    background-repeat: no-repeat;
-    background-size: cover;
-    align-content: auto;
+    /* background-repeat: repeat;
+    align-content: auto; */
 
 
-}
-#Panel-heading {
-  height: 10px;
-  background: #4aaaa5;
-}
+
+/* } */
 .block-header {
   font-family: "Georgia", Times, Times New Roman, serif;
   font-size: 30px;
-  color:white;
+  color:white; 
   
   
 }
-#work {
+.work {
   font-family: "Georgia", Times, Times New Roman, serif;
   text-align: right;
   color: rgb(86, 43, 187);
   font-size: 30px;
 }
 
-img {
+.git-image {
   height: 80px;
   width: 50px;
   padding-bottom: 10px;
+
 }
 
-h5 {
-  color: #ffffff;
-  background-color: #4aaaa5;
-  font-size: 18px;
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
-
-.card-img-overlay {
-  text-align: center;
-  margin: 0 auto;
-  width: inherit;
-  top: initial;
-  padding: 0;
-  bottom: 0;
-}
 footer {
   border-top: 10px solid rgb(86, 43, 187);
   position:absolute;
-  bottom: 0;
+  bottom: -130px;
   width: 100%;
 }
 
-.card {
-  border: none;
-  margin: 10px 10px;
-}
 
 .fa {
   padding: 20px;
